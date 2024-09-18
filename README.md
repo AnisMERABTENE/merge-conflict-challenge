@@ -1,4 +1,4 @@
-# merge-conflict-challenge
+# LOCAL
 th challenge of merge conflict
 You are the one for me
 Formidable
